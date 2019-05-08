@@ -1,3 +1,4 @@
+//To Count The Number Of Characters in the given string
 package com.stackroute;
 
 import java.util.Scanner;
